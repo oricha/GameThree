@@ -14,3 +14,13 @@ Game/.springBeans
 *.prefs
 
 Game/.settings/org.eclipse.wst.common.project.facet.core.xml
+
+*.class
+
+*.class
+
+*.class
+
+Player/target/classes/org/takeaway/karel/NotFoundException.class
+
+Player/target/classes/META-INF/MANIFEST.MF
