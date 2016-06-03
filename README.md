@@ -1,7 +1,10 @@
+##Three
+Three is a simple game that communicates through REST Api.A player chooses a random number and adds + 1 / -1 / 0 and sent it to another and the first to reach 1 wins.
+
 How to build/run proyect
 with maven 
-* mvn clean package
-* mvn spring-boot:run  or java -jar target/game-0.1.0.jar same for the project java -jar target/player-0.1.0.jar
+* Game/mvn clean package
+* Game/mvn spring-boot:run  or java -jar target/game-0.1.0.jar same for the project java -jar target/player-0.1.0.jar
 * run http://localhost:8080/start
 
 with Gradle
