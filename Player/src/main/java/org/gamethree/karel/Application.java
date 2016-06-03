@@ -1,4 +1,4 @@
-package org.takeaway.karel;
+package org.gamethree.karel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

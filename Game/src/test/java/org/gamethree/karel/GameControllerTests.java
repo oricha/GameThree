@@ -1,4 +1,4 @@
-package org.takeaway.karel;
+package org.gamethree.karel;
 
 import org.junit.Before;
 import org.junit.Test;

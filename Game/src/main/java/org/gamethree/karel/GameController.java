@@ -1,5 +1,5 @@
 
-package org.takeaway.karel;
+package org.gamethree.karel;
 
 import java.util.concurrent.ThreadLocalRandom;
 

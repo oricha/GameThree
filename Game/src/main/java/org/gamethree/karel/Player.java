@@ -1,26 +1,21 @@
-package org.takeaway.karel;
-
-import javax.validation.constraints.Max;
-import javax.validation.constraints.Min;
+package org.gamethree.karel;
 
 public class Player {
 
     private long id;
     private int number;
-    @Min(-1)
-    @Max(1)
     private int sum = 0;
-    private boolean automatic = false;
-
+    
     public Player(){
     	
     }
     public Player(int _id, int _number){
     	this.id = _id;
     	this.number = _number;
-    }	
-   
-	public long getId() {
+    	
+    }
+
+    public long getId() {
         return id;
     }
 
@@ -43,16 +38,8 @@ public class Player {
 	public void setSum(int sum) {
 		this.sum = sum;
 	}
-	
 	public String toString(){
 		return "Player id: "+id +" number:"+ number;
 	}
-	public boolean isAutomatic() {
-		return automatic;
-	}
-	public void setAutomatic(boolean automatic) {
-		this.automatic = automatic;
-	}
-
 
 }

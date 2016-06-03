@@ -2,3 +2,15 @@
 .project
 
 .classpath
+
+Player/.springBeans
+
+Player/.settings/org.eclipse.core.resources.prefs
+
+Player/.springBeans
+
+Game/.springBeans
+
+*.prefs
+
+Game/.settings/org.eclipse.wst.common.project.facet.core.xml
