@@ -1,5 +1,5 @@
 ##Three
-Three is a simple game that communicates through REST Api.A player chooses a random number and adds + 1 / -1 / 0 and sent it to another and the first to reach 1 wins.
+Three is a simple game that communicates through REST API. A player chooses a random number and adds + 1 / -1 / 0 and sent it to another and the first to reach 1 wins.
 
 How to build/run proyect
 with maven 
